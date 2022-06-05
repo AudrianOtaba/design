@@ -1,0 +1,205 @@
+body{
+    background-color: ;
+    background-image: url("images/jeep2.jpg");
+    background-size: cover;
+    width:90%;
+    height:90%;
+    background-repeat: no-repeat;
+    color: white;
+}
+ul{
+    text-align: center;
+    color: red;
+    background-color: gray;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+
+}
+li{
+    float: left;
+}
+li,a:hover{
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    background-color: white;
+    display: inline-flex;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color: black;
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin: 15px;
+    padding: 15px;
+    background-color: yellowgreen;
+}
+h2{
+    text-align: center;
+    color: gold;
+    font: italic;
+}
+h3{
+    color: purple;
+    font-family: Ebrima;
+    font: bold;
+    text-align: center;
+}
+h4{
+    color: greenyellow;
+    font-family: Algerian";
+    font: italic;
+    text-align: left;
+    font-size: 170%;
+    text-align: center;
+}
+h5{
+    font: italic;
+    font-size: 500%;
+    color:darkred;
+    font-family: cursive;
+}
+p1{
+    text-align: center;
+    color: white;
+    font: bold;
+    font-size: 170%;
+    color: darkred;
+}
+table{
+    background-color: gold;
+    border-collapse: collapse;
+    alignment: center;
+    border: 2px solid darkred;
+    width: 60%;
+text-align: center;
+}
+tr{
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid darkred;
+}
+td,th{
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    font-family: Arial;
+    border: 2px solid darkred;
+}
+.Motorbikes{
+    border: 2px solid blue;
+    padding: 15px;
+    margin: 15px;
+    background-color: yellowgreen;
+    text-align: center;
+
+}
+.vehicles{
+    border: 2px solid darkred;
+    padding: 15px;
+    margin: 15px;
+    background-color: purple;
+    text-align: center;
+}
+.toyota{
+    border: 2px solid navy;
+    padding: 15px;
+    margin: 15px;
+    background-color: darkslategrey;
+    text-align: center;
+}
+.superbikes{
+    border: 2px solid blue;
+    padding: 15px;
+    margin: 15px;
+    background-color: gold;
+    text-align: center;
+}
+.map {
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+.sanple{
+    border: 2px solid ;
+    padding: 15px;
+    margin: 15px;
+    background-color: colourless;
+    text-align: center;
+}
+.web{
+    border: 2px solid ;
+    padding: 15px;
+    margin: 15px;
+    background-color: colorless;
+    text-align: center;
+}
+#SoftwareDevelopment{
+    border: 2px solid darkred;
+    padding: 15px;
+    margin: 15px;
+    background-color: brown;
+    text-align: center;
+}#Microsoft{
+     border: 2px solid red;
+     padding: 15px;
+     margin: 15px;
+     background-color: yellowgreen;
+     text-align: center;
+ }
+ #table{
+     border: 2px solid darkred;
+     padding: 15px;
+     margin: 15px;
+     background-color: colourless;
+     text-align: center;
+
+ }
+ #thank{
+     border: 2px solid red;
+     padding: 15px;
+     margin: 15px;
+     background-color: yellowgreen;
+     text-align: center;
+ }
+form{
+    border: 2px solid blue;
+    size: A3;
+    background-color: mintcream;
+    text-align: center;
+}
+label{
+    color: maroon;
+    font-family: Arial;
+
+}
+input{
+    color: darkred;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
+select{
+    color: darkred;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
+fieldset{
+    border: 2px solid black;
+    padding: 2px;
+    margin: 2px;
+}
+legend{
+    color: darkslategrey;
+    text-align: center;
+    font-family: "dejavu sans";
+}
+p1{
+    color: darkred;
+}
